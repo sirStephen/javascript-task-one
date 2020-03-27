@@ -1,0 +1,13 @@
+footer {
+    padding: 60px;
+    text-align: center;
+    bottom: 0;
+}
+
+footer a {
+    color: hsl(210, 100%, 56%);
+}
+
+.numbers {
+    word-break: break-word;
+}
